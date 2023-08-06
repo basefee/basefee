@@ -16,6 +16,8 @@
 [![NodeJS]](https://nodejs.org/)
 [![ReactJS]](https://reactjs.org/)
 [![NextJS]](https://nextjs.org/)
+[![Foundry]](https://book.getfoundry.sh/)
+[![Alchemy]](https://www.alchemy.com/)
 [![Hardhat]](https://hardhat.org/)
 [![EthersJS]](https://docs.ethers.io/v5/)
 [![IPFS]](https://ipfs.tech/)
@@ -38,6 +40,7 @@
 [ethersjs]: https://custom-icon-badges.demolab.com/badge/Ethers.js-29349A?style=for-the-badge&logo=ethers&logoColor=white
 [web3js]: https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white
 [alchemy]: https://custom-icon-badges.demolab.com/badge/Alchemy-2356D2?style=for-the-badge&logo=alchemy&logoColor=white
+[foundry]: https://custom-icon-badges.demolab.com/badge/Foundry-000?style=for-the-badge&logo=foundry-000
 [hardhat]: https://custom-icon-badges.demolab.com/badge/Hardhat-181A1F?style=for-the-badge&logo=hardhat
 [chai]: https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white
 [mocha]: https://custom-icon-badges.demolab.com/badge/Mocha-87694D?style=for-the-badge&logo=mocha&logoColor=white
