@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### My Name is Garv
 
-- 🔭 I’m currently working on... A Decentralized Stable Coin.
+- 🔭 I’m currently working on... Understanding Core Ethereum.
 - 🤝 I'm interested in meeting **buidlers**.
-- 💬 Ask me about **Web3js ,Foundry ,Hardhat, Solidity, JavaScript, React, Nodejs, HTML, CSS, Ethereum.** 
+- 💬 Ask me about **Web3js ,Foundry ,Hardhat, Solidity, JavaScript, React, Nodejs, HTML, CSS, Ethereum, Rust.** 
 
 ### Contact Me
 [![Twitter]](https://twitter.com/0xGarv)
