@@ -5,6 +5,12 @@
 - 🤝 I'm interested in meeting **buidlers**.
 - 💬 Ask me about **Web3js ,Foundry ,Hardhat, Solidity, JavaScript, React, Nodejs, HTML, CSS, Ethereum, Rust.** 
 
+### Hackathon Wins
+- #### [EthBelgrade'24](https://ethbelgrade.rs/) Optimism Track - [Infrasound](https://taikai.network/ethbelgrade/hackathons/eth-belgrade-hackathon-2024/projects/clwwok2uw0469v401swdwef2g/idea)
+- #### [HackFS'24](https://ethglobal.com/events/hackfs2024) Powerloom Track - [FileLoom](https://ethglobal.com/showcase/fileloom-3o4vm)
+- #### [EthIndia'23](https://ethindia.co/) Scroll, XDC and Fathom Track - [FreedFi](https://ethglobal.com/showcase/freedfi-hv79w)
+
+
 ### Contact Me
 [![Twitter]](https://twitter.com/0xGarv)
 [![LinkedIn]](https://www.linkedin.com/in/agarwal-garv/)
