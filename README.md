@@ -7,6 +7,7 @@
 
 ### Hackathon Wins
 - #### [EthBelgrade'24](https://ethbelgrade.rs/) Optimism Track - [Infrasound](https://taikai.network/ethbelgrade/hackathons/eth-belgrade-hackathon-2024/projects/clwwok2uw0469v401swdwef2g/idea)
+- #### [EthSEA X Coinfest](https://www.ethsea.com/) RWA Lisk Track - [RealTrade](https://devfolio.co/projects/realtrade-76c6)
 - #### [HackFS'24](https://ethglobal.com/events/hackfs2024) Powerloom Track - [FileLoom](https://ethglobal.com/showcase/fileloom-3o4vm)
 - #### [EthIndia'23](https://ethindia.co/) Scroll, XDC and Fathom Track - [FreedFi](https://ethglobal.com/showcase/freedfi-hv79w)
 
