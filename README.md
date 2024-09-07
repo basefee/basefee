@@ -14,7 +14,6 @@
 
 ### Contact Me
 [![Twitter]](https://twitter.com/0xGarv)
-[![LinkedIn]](https://www.linkedin.com/in/agarwal-garv/)
 
 ### Tech Stack
 
