@@ -1,5 +1,4 @@
-### Hi there 👋
-### My Name is Garv
+### Hi cypherpunk!!
 
 - 🔭 I’m currently working on... Understanding Core Ethereum.
 - 🤝 I'm interested in meeting **buidlers**.
