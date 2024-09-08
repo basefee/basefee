@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on... Understanding Core Ethereum.
 - 🤝 I'm interested in meeting **buidlers**.
-- 💬 Ask me about **Web3js ,Foundry ,Hardhat, Solidity, JavaScript, React, Nodejs, HTML, CSS, Ethereum, Rust.** 
+- 💬 Ask me about **Foundry ,Hardhat, Solidity, Ethereum, Rust, JavaScript, React.** 
 
 ### Hackathon Wins
 - #### [EthBelgrade'24](https://ethbelgrade.rs/) Optimism Track - [Infrasound](https://taikai.network/ethbelgrade/hackathons/eth-belgrade-hackathon-2024/projects/clwwok2uw0469v401swdwef2g/idea)
